@@ -1,7 +1,7 @@
 {
     "basketLeft": {
         "displayName": "Pick egg",
-        "resourceName": "eggBlue.glb",
+        "resourceName": "eggBronze.glb",
         "scale": {
             "x": 0.5,
             "y": 0.5,
